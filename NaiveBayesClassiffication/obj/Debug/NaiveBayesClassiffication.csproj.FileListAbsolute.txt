@@ -1,0 +1,22 @@
+C:\Users\MURAT-PC\Documents\Visual Studio 2017\Projects\NaiveBayesClassiffication\NaiveBayesClassiffication\bin\Debug\NaiveBayesClassiffication.exe.config
+C:\Users\MURAT-PC\Documents\Visual Studio 2017\Projects\NaiveBayesClassiffication\NaiveBayesClassiffication\bin\Debug\NaiveBayesClassiffication.exe
+C:\Users\MURAT-PC\Documents\Visual Studio 2017\Projects\NaiveBayesClassiffication\NaiveBayesClassiffication\bin\Debug\NaiveBayesClassiffication.pdb
+C:\Users\MURAT-PC\Documents\Visual Studio 2017\Projects\NaiveBayesClassiffication\NaiveBayesClassiffication\obj\Debug\NaiveBayesClassiffication.Form1.resources
+C:\Users\MURAT-PC\Documents\Visual Studio 2017\Projects\NaiveBayesClassiffication\NaiveBayesClassiffication\obj\Debug\NaiveBayesClassiffication.Properties.Resources.resources
+C:\Users\MURAT-PC\Documents\Visual Studio 2017\Projects\NaiveBayesClassiffication\NaiveBayesClassiffication\obj\Debug\NaiveBayesClassiffication.csproj.GenerateResource.Cache
+C:\Users\MURAT-PC\Documents\Visual Studio 2017\Projects\NaiveBayesClassiffication\NaiveBayesClassiffication\obj\Debug\NaiveBayesClassiffication.csproj.CoreCompileInputs.cache
+C:\Users\MURAT-PC\Documents\Visual Studio 2017\Projects\NaiveBayesClassiffication\NaiveBayesClassiffication\obj\Debug\NaiveBayesClassiffication.exe
+C:\Users\MURAT-PC\Documents\Visual Studio 2017\Projects\NaiveBayesClassiffication\NaiveBayesClassiffication\obj\Debug\NaiveBayesClassiffication.pdb
+C:\Users\MURAT-PC\Documents\Visual Studio 2017\Projects\NaiveBayesClassiffication\NaiveBayesClassiffication\bin\Debug\NZemberek.dll
+C:\Users\MURAT-PC\Documents\Visual Studio 2017\Projects\NaiveBayesClassiffication\NaiveBayesClassiffication\obj\Debug\NaiveBayesClassiffication.csprojResolveAssemblyReference.cache
+D:\Univercity\3.sinif\Donem2\dersler\yazlab2\proje3\NaiveBayesClassiffication\NaiveBayesClassiffication\bin\Debug\NaiveBayesClassiffication.exe.config
+D:\Univercity\3.sinif\Donem2\dersler\yazlab2\proje3\NaiveBayesClassiffication\NaiveBayesClassiffication\bin\Debug\NaiveBayesClassiffication.exe
+D:\Univercity\3.sinif\Donem2\dersler\yazlab2\proje3\NaiveBayesClassiffication\NaiveBayesClassiffication\bin\Debug\NaiveBayesClassiffication.pdb
+D:\Univercity\3.sinif\Donem2\dersler\yazlab2\proje3\NaiveBayesClassiffication\NaiveBayesClassiffication\bin\Debug\NZemberek.dll
+D:\Univercity\3.sinif\Donem2\dersler\yazlab2\proje3\NaiveBayesClassiffication\NaiveBayesClassiffication\obj\Debug\NaiveBayesClassiffication.csprojResolveAssemblyReference.cache
+D:\Univercity\3.sinif\Donem2\dersler\yazlab2\proje3\NaiveBayesClassiffication\NaiveBayesClassiffication\obj\Debug\NaiveBayesClassiffication.Form1.resources
+D:\Univercity\3.sinif\Donem2\dersler\yazlab2\proje3\NaiveBayesClassiffication\NaiveBayesClassiffication\obj\Debug\NaiveBayesClassiffication.Properties.Resources.resources
+D:\Univercity\3.sinif\Donem2\dersler\yazlab2\proje3\NaiveBayesClassiffication\NaiveBayesClassiffication\obj\Debug\NaiveBayesClassiffication.csproj.GenerateResource.Cache
+D:\Univercity\3.sinif\Donem2\dersler\yazlab2\proje3\NaiveBayesClassiffication\NaiveBayesClassiffication\obj\Debug\NaiveBayesClassiffication.csproj.CoreCompileInputs.cache
+D:\Univercity\3.sinif\Donem2\dersler\yazlab2\proje3\NaiveBayesClassiffication\NaiveBayesClassiffication\obj\Debug\NaiveBayesClassiffication.exe
+D:\Univercity\3.sinif\Donem2\dersler\yazlab2\proje3\NaiveBayesClassiffication\NaiveBayesClassiffication\obj\Debug\NaiveBayesClassiffication.pdb
